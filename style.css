@@ -8,6 +8,7 @@
 
 body {
   background-color: var(--light);
+  font-family: "Noto Serif SC", serif;
 }
 
 h1 {
