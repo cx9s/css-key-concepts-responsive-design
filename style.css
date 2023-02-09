@@ -95,7 +95,7 @@ nav .icon {
 }
 
 @media screen and (max-width: 600px) {
-  .nav a:not(:first-child) {
+  nav a:not(:first-child) {
     display: none;
   }
   nav a.icon {
